@@ -85,6 +85,8 @@ Setting constant | Description
 "print" | Show the top level print settings
 "privacy" | Show settings to allow configuration of privacy options
 "quick_launch" | Show settings to allow configuration of quick launch shortcuts
+"reminder" | Settings > Alarm & Reminder
+"exactalarm" | Settings > Alarm & Reminder
 "search" | Show settings for global search
 "security" | Show settings to allow configuration of security and location privacy
 "settings" | Show system settings
